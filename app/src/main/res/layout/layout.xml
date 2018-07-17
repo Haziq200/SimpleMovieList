@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutMovie"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+   --  Step is: Create a ListView in UI and assign an approriate id in it -->
+
+    <ListView
+        android:id="@+id/ListVieweMovie"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
